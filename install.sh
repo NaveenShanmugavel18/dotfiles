@@ -14,6 +14,7 @@ brew install --cask anydesk
 brew install --cask iterm2
 brew install --cask microsoft-teams
 brew install --cask vlc
+brew install --cask whatsapp
 
 git config --global user.name "Naveen Shanmugavel"
 git config --global user.email naveensv18@gmail.com
