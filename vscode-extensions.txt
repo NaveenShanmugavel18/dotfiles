@@ -2,3 +2,5 @@ ms-azuretools.vscode-docker
 eamodio.gitlens
 golang.go
 LeetCode.vscode-leetcode
+SonarSource.sonarlint-vscode
+esbenp.prettier-vscode
