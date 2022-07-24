@@ -4,3 +4,4 @@ golang.go
 LeetCode.vscode-leetcode
 SonarSource.sonarlint-vscode
 esbenp.prettier-vscode
+pnp.polacode
