@@ -18,6 +18,7 @@ brew install --cask whatsapp
 brew install --cask signal
 brew install --cask flameshot
 brew install --cask raindropio
+brew install --cask rectangle
 
 git config --global user.name "Naveen Shanmugavel"
 git config --global user.email naveensv18@gmail.com
