@@ -6,3 +6,4 @@ SonarSource.sonarlint-vscode
 esbenp.prettier-vscode
 pnp.polacode
 PKief.material-icon-theme
+dbaeumer.vscode-eslint
