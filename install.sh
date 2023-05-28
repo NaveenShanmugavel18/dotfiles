@@ -19,6 +19,7 @@ brew install --cask signal
 brew install --cask flameshot
 brew install --cask raindropio
 brew install --cask rectangle
+brew install texlive
 brew install redis
 
 git config --global user.name "Naveen Shanmugavel"
