@@ -8,7 +8,6 @@ brew install --cask discord
 brew install --cask zoom
 brew install --cask postman
 brew install --cask telegram-desktop
-brew install docker
 brew install --cask teamviewer
 brew install --cask anydesk
 brew install --cask iterm2
@@ -19,8 +18,11 @@ brew install --cask signal
 brew install --cask flameshot
 brew install --cask raindropio
 brew install --cask rectangle
+brew install --cask mysqlworkbench
 brew install texlive
 brew install redis
+brew install mysql
+brew install docker
 
 git config --global user.name "Naveen Shanmugavel"
 git config --global user.email naveensv18@gmail.com
