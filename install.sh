@@ -23,6 +23,7 @@ brew install texlive
 brew install redis
 brew install mysql
 brew install docker
+brew install gh
 
 git config --global user.name "Naveen Shanmugavel"
 git config --global user.email naveensv18@gmail.com
