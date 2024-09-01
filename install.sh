@@ -24,6 +24,7 @@ brew install --cask raindropio
 brew install --cask rectangle
 brew install --cask mysqlworkbench
 brew install --cask pdfsam-basic
+brew install --cask microsoft-outlook
 brew install texlive
 brew install redis
 brew install mysql
